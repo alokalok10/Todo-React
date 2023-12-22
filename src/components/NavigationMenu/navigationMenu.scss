@@ -1,0 +1,45 @@
+.routes {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin: 15px 0;
+    padding: 0;
+
+    &__item a {
+        color: #74cb30;
+    }
+    &__item a:hover {
+        color: #2a8fbd; /* Change color on hover */
+      }
+    
+
+    
+}
+
+
+.portfolio-link a {
+    text-decoration: none;
+    color: #3498db; /* Set the color for the portfolio link */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+  
+   
+
+
+
+/* Add this to your existing CSS or create a new CSS file */
+
+
+    /* Optional: Add more styles based on your preferences */
+  
+  
+//   .Alok:hover {
+//     background-color: #2980b9; /* Change the background color on hover */
+//   }
+  
+//   .Alok a {
+//     text-decoration: none;
+//     color: inherit;
+//   }
+  
